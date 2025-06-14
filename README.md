@@ -105,9 +105,7 @@ This project showcases a range of essential networking technologies and configur
 
 ---
 
-> 💡 This project demonstrates real-world skills in switching, routing, IP planning, wireless setup, and DHCP—all within a secure, scalable network design.
-
-
+### Conclusion
 
 > 💡 This project is an excellent opportunity for aspiring IT professionals to showcase practical skills in network design, VLAN configuration, inter-VLAN routing, DHCP setup, and wireless deployment—all within a real-world scenario.
 

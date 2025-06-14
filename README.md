@@ -33,6 +33,9 @@ The network for the Bonalbo branch must meet the following specifications:
 - All **host devices** (wired and wireless) must obtain **IPv4 addresses automatically** (via DHCP)
 - Devices in **all departments must be able to communicate** with each other (inter-VLAN routing required)
 
+  ![image](https://github.com/user-attachments/assets/f24ec492-9ad2-4bbf-8e73-4c0cdb8b8762)
+
+
 ---
 
 ## ✅ Project Objectives Summary
